@@ -10,7 +10,8 @@ SHA1: 86d54292f7be4d1db5107b8f66eb83375bdccf56
 SHA256: 3c0c552c33e1152bd838cfacc324bbaa7e2d242e72b18888107d896371c71c48
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
 Author: @1_lj6
 Installed-Size: 2408
 Name: tw3ha
-
