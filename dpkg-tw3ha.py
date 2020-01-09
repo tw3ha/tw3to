@@ -16,7 +16,7 @@
 # Author: Raymond Velasquez <at.supermamon@gmail.com>
 
 script_name    = 'dpkg-tw3ha.py'
-script_version = '0.4.1'
+script_version = '0.5.0'
 
 import glob, sys, os, argparse
 from pydpkg import Dpkg
