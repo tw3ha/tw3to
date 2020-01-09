@@ -1,0 +1,18 @@
+Package: com.yourepo.tw3ha.tw3ha
+Version: 4.8-1+debug
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.yourepo.tw3ha.tw3ha_4.8-1+debug_iphoneos-arm.deb
+Size: 316664
+MD5sum: 11c789c5d84b96d0efa102e57c8a34aa
+SHA1: f9768dfd43029fc5149a118f50234c81b0e4058e
+SHA256: 332fd432924f835c3bdb71722492e686afe5d733a758a961ccd12238b39590b9
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 2356
+Name: tw3ha
+
