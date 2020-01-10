@@ -8,10 +8,10 @@ Size: 338656
 MD5sum: 39b3cd505ebc369bb79ff2cdcfc3ae8b
 SHA1: 0aabc14c4bd423db2f82f6fae530395508bd79e0
 SHA256: c236c600b325d8aa40c4c44273ea855a8f66b923260337f457715f67049a4438
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3to
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3to.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
 Installed-Size: 2396
 Name: tw3ha
