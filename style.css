@@ -22,11 +22,11 @@ header img {
 }
 
 header .repo {
-    display: block;
-    padding-top:10px;
-    font-family: "Fredoka One", sans-serif;
-    text-transform: uppercase;
-    font-size: 2em;
+  display: block;
+  padding-top:0px;
+  font-family: "Karla", sans-serif;
+  text-transform: none;
+  font-size: 12em;
 }
 
 @media (min-width: 768px) {
@@ -64,9 +64,9 @@ header .btn{
 }
 
 .btn-outline {
-    color:#a3c1d5;
+    color:#000000;
     font-size: 1.2em;
-    border: solid 1.5px #a3c1d5;
+    border: solid 1.5px #000000;
     background: transparent;
     transition: all 0.3s ease-in-out;
     margin-top: 15px;
@@ -76,8 +76,8 @@ header .btn{
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: white;
-    background:#a3c1d5;
+    color: black;
+    background:#0066FF;
     border: solid 1.5px white;
 }
 
@@ -96,11 +96,247 @@ footer .footer-above {
     padding-top:2px;
     height: 50px;
     width: 50px;
-    border: 1.5px solid #a3c1d5;
+    border: 1.5px solid #000000;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
     line-height: 45px;
 }
+.socia-lmedia a.fab.fa-youtube {
+    background-color: #bb0000;
+}
+.socia-lmedia a.fab.fa-facebook {
+    background-color: #3B5998;
+}
+.socia-lmedia a.fab.fa-instagram {
+    background-color: #125688;
+}
+.socia-lmedia a.fab.fa-twitter {
+    background-color: #55ACEE;
+}
+.socia-lmedia a.fab.fa-snapchat-ghost {
+    background-color: #fffc00;
+}
+.socia-lmedia a {
+    font-size: 45px;
+    color: white;
+    margin: 3px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.socia-lmedia a:hover {
+    border-radius: 10px;
+    background-color: #464040d4;
+}
 
 
+#jsn-social-icons {
+	text-align: center;
+}
+
+#jsn-social-icons ul {
+	display: inline-block;
+	margin: 0 auto;
+}
+#jsn-social-icons ul li {
+	display: inline-block;
+	list-style: none;
+	margin-left: 3px;
+	background-color: #fff;
+	padding: 3px;
+	border: 3px solid #dadada;
+	border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+}
+#jsn-social-icons ul li:first-child {
+	margin-left: 0;
+}
+#jsn-social-icons ul li:hover {
+	border-color: #aaa;
+}
+#jsn-social-icons ul li a {
+	display: block;
+	text-indent: -999em;
+	background-image: url(icons-social.png);
+	background-repeat: no-repeat;
+	width: 59px;
+	height: 59px;
+	transition: all 0.2s ease;
+	-moz-transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
+	-o-transition: all 0.2s ease;
+	opacity: 0.4;
+	border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+}
+#jsn-social-icons ul li:hover a,
+#jsn-social-icons ul li a:hover {
+	opacity: 1;
+	background-color: transparent;
+
+}
+#jsn-social-icons ul li.facebook:hover a {
+	background-position: 0 0;
+}
+#jsn-social-icons ul li.facebook a {
+	background-position: 0 -59px;
+}
+#jsn-social-icons ul li.twitter:hover a {
+	background-position: -177px 0;
+}
+#jsn-social-icons ul li.twitter a {
+	background-position: -177px -59px;
+}
+#jsn-social-icons ul li.youtube:hover a {
+	background-position: -59px 0;
+}
+#jsn-social-icons ul li.youtube a {
+	background-position: -59px -59px;
+}
+#jsn-social-icons ul li.googleplus:hover a {
+	background-position: -118px 0;
+}
+#jsn-social-icons ul li.googleplus a {
+	background-position: -118px -59px;
+}
+#jsn-social-icons ul li.pinterest:hover a {
+	background-position: -472px 0;
+}
+#jsn-social-icons ul li.pinterest a {
+	background-position: -472px -59px;
+}
+#jsn-social-icons ul li.myspace:hover a {
+	background-position: -590px 0;
+}
+#jsn-social-icons ul li.myspace a {
+	background-position: -590px -59px;
+}
+#jsn-social-icons ul li.flickr:hover a {
+	background-position: -413px 0;
+}
+#jsn-social-icons ul li.flickr a {
+	background-position: -413px -59px;
+}
+#jsn-social-icons ul li.dribble:hover a {
+	background-position: -295px 0;
+}
+#jsn-social-icons ul li.dribble a {
+	background-position: -295px -59px;
+}
+#jsn-social-icons ul li.stumbleupon:hover a {
+	background-position: -649px 0;
+}
+#jsn-social-icons ul li.stumbleupon a {
+	background-position: -649px -59px;
+}
+#jsn-social-icons ul li.yahoo:hover a {
+	background-position: -354px 0;
+}
+#jsn-social-icons ul li.yahoo a {
+	background-position: -354px -59px;
+}
+#jsn-social-icons ul li.skype:hover a {
+	background-position: -531px 0;
+}
+#jsn-social-icons ul li.skype a {
+	background-position: -531px -59px;
+}
+#jsn-social-icons ul li.rss:hover a {
+	background-position: -236px 0;
+}
+#jsn-social-icons ul li.rss a {
+	background-position: -236px -59px;
+}
+#jsn-social-icons ul li.linkedin a:hover {
+	background-position: -708px 0;
+}
+#jsn-social-icons ul li.linkedin a {
+	background-position: -708px -59px;
+}
+#jsn-social-icons ul li.snapchat:hover a {
+	background-position: -59px 0;
+  }
+  #jsn-social-icons ul li.snapchat a {
+  	background-position: -59px -59px;
+  }
+  #jsn-social-icons ul li.instagram:hover a {
+  	background-position: -59px 0;
+    }
+#jsn-social-icons ul li.instagram a {
+	background-position: -59px -59px;
+}
+#jsn-social-icons ul li.snap:hover a {
+	background-position: 0 0;
+}
+#jsn-social-icons ul li.snap a {
+	background-position: 0 0;
+}
+ul.flatflipbuttons{
+position:fixed;
+padding:0 0 3px 0;
+bottom: 22%;
+margin-left:0px;
+float:left;
+list-style:none;
+-webkit-perspective: 10000px;
+-moz-perspective: 10000px;
+perspective: 10000px;
+}
+ul.flatflipbuttons li{
+margin:0;
+display: block;
+width: 25px;
+height: 25px;
+margin-bottom: 25px;
+background: transparent;
+text-transform: uppercase;
+text-align: center;
+}
+ul.flatflipbuttons li a{
+display:table;
+font: bold 36px Arial;
+width: 100%;
+height: 100%;
+color: black;
+background: transparent;
+text-decoration: none;
+outline: none;
+-webkit-transition:all 300ms ease-out;
+-moz-transition:all 300ms ease-out;
+transition:all 300ms ease-out;
+}
+ul.flatflipbuttons li a span{
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+display: table-cell;
+vertical-align: middle;
+width: 100%;
+height: 100%;
+-webkit-transition: all 300ms ease-out;
+-moz-transition: all 300ms ease-out;
+transition: all 300ms ease-out;
+}
+ul.flatflipbuttons li a img{
+border-width: 0;
+vertical-align: middle;
+}
+ul.flatflipbuttons li:hover a{
+-webkit-transform: rotateY(180deg);
+-moz-transform: rotateY(180deg);
+transform: rotateY(180deg);
+background:   transparent;
+-webkit-transition-delay: 0.2s;
+-moz-transition-delay: 0.2s;
+transition-delay: 0.2s;
+}
+ul.flatflipbuttons li:hover a span{
+-webkit-transform: rotateY(180deg);
+-moz-transform: rotateY(180deg);
+transform: rotateY(180deg);
+-webkit-transition-delay: 0.2s;
+-moz-transition-delay: 0.2s;
+transition-delay: 0.2s;
+}
