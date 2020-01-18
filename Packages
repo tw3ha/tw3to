@@ -34,6 +34,24 @@ Author: @1_lj6
 Installed-Size: 2660
 Name: tw3ha
 
+Package: com.github.tw3to.tw3ha
+Version: 5.2-6+debug-1+debug
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3ha_5.2-6+debug-1+debug_iphoneos-arm.deb
+Size: 572746
+MD5sum: e8c54efb77cdb82dd81aceb023926d82
+SHA1: dc0fac745070dfe098a54baecce7afe77229fe98
+SHA256: f7d0e010bd66a99de2842a526ea3182d0492bdce69ba5748711e8e833e90c09f
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3to
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3to.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 2724
+Name: tw3ha
+
 Package: iOSGods.com.BLEACHBS
 Version: 9.5.1+iOSGods.com
 Architecture: iphoneos-arm
@@ -51,4 +69,4 @@ Description: BLEACH Brave Souls iGMM Cheats by iOSGods for iOSGods.com!
 Author: iOSGods
 Homepage: https://iosgods.com
 Installed-Size: 924
-Name: BLEACH Brave Souls Cheats CO-OP
+Name: BLEACH Brave Souls Cheats
