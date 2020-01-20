@@ -70,3 +70,22 @@ Author: iOSGods
 Homepage: https://iosgods.com
 Installed-Size: 924
 Name: BLEACH Brave Souls Cheats
+
+
+Package: com.github.tw3to.tw3so
+Version: 1.0.1+debug-5+debug
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3so_1.0.1+debug_iphoneos-arm.deb
+Size: 55570
+MD5sum: 9f0d7aa4e629373680466231390adcac
+SHA1: d461279a594df4b1666bf9daf38f4b8769ac956f
+SHA256: a9387c4bcfef2dfa454b2706ec20e65efedf522947bbdd4cc5b439945d628857
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3so
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3so.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 492
+Name: tw3so
