@@ -1,8 +1,8 @@
-Origin: tw3to
-Label: tw3to
+Origin: tw3to Repo
+Label: adelsami
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: adelsami
 Architectures: iphoneos-arm
 Components: main
-Description: All tw3to tools
+Description: tw3to Tweaks
