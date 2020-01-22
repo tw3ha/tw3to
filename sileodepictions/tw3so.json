@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "bleach Tweak for iOSGods"
+					"markdown": "tw3so Tweak for tw3ha"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.0.1+debug",
+					"text": "1.2",
 					"class": "DepictionTableTextView"
 				},
 
@@ -41,7 +41,7 @@
 				},
 				{
 					"title": "Developer",
-					"text": "tw3ha",
+					"text": "tw3so",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -80,12 +80,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update Hack version 1.0.1+debug",
+					"markdown": "\t\n\u2022 Update  version 1.2+debug",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update Hack version 1.0.1+debug",
+					"markdown": "\t\n\u2022 Update  version 1.2+debug",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
