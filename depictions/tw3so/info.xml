@@ -1,7 +1,7 @@
 <package>
 	<id>com.github.tw3to.tw3so</id>
-	<name>tw3ha</name>
-	<version>1.3-1+debug-1+debug</version>
+	<name>tw3so</name>
+	<version>1.3-3+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
