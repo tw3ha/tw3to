@@ -52,6 +52,24 @@ Author: @1_lj6
 Installed-Size: 2724
 Name: tw3ha
 
+Package: com.github.tw3to.tw3ha
+Version: 5.2-9+debug-2+debug
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3ha_5.2-9+debug-2+debug_iphoneos-arm.deb
+Size: 657260
+MD5sum: 5d7077a054ad476c43088dd1ed731b73
+SHA1: eedcc9e946e094609984df001b117954bf191d35
+SHA256: 087b0a2d99035fa3d0c9ebc520777548e8ebf7fe83ff2971012e62f030070146
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 3084
+Name: tw3ha
+
 Package: com.github.tw3to.tw3so
 Version: 1.0.1+debug-5+debug
 Architecture: iphoneos-arm
@@ -122,6 +140,24 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
 Installed-Size: 752
+Name: tw3so
+
+Package: com.github.tw3to.tw3so
+Version: 1.7-1+debug
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3so_1.7-1+debug_iphoneos-arm.deb
+Size: 98688
+MD5sum: 14b7f06ff982330e962b4b7f872e20cb
+SHA1: 181f2a8e1413796245262cb561f7383105db4bd2
+SHA256: bef701529692d8499fc8faa6e769e38af5723623f6318ee5ed7d5170004768c4
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3so
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3so.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 792
 Name: tw3so
 
 Package: iOSGods.com.BLEACHBS
