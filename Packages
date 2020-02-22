@@ -35,24 +35,6 @@ Installed-Size: 3604
 Name: tw3ha
 
 Package: com.github.tw3to.tw3so
-Version: 1.6-2+debug
-Architecture: iphoneos-arm
-Maintainer: @1_lj6
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.github.tw3to.tw3so_1.6-2+debug_iphoneos-arm.deb
-Size: 98666
-MD5sum: 238d020dffaba02997fe1b172cb7e4d9
-SHA1: 3077761d389d4ccf968e4904a971608e61748102
-SHA256: a79815fbacd97b9339b4f426dd2e968835e66755a36529b0c7c9a084f30148d3
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3so
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3so.json
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: @1_lj6
-Installed-Size: 752
-Name: tw3so
-
-Package: com.github.tw3to.tw3so
 Version: 1.7-1+debug
 Architecture: iphoneos-arm
 Maintainer: @1_lj6
@@ -70,6 +52,24 @@ Author: @1_lj6
 Installed-Size: 792
 Name: tw3so
 
+Package: com.github.tw3to.tw3so
+Version: 1.9-1+debug
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3so_1.9-1+debug_iphoneos-arm.deb
+Size: 93032
+MD5sum: 8a3c7d8ab2e732cf5014090fb1448e14
+SHA1: a1dcd53f7e07bf67a0357deae83b5dc5b983b554
+SHA256: ca9635bda798aaf0046371dae0a5f737608c22c8bdb93af316ba3edd150786a8
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3so
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3so.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 940
+Name: tw3so
+
 Package: iOSGods.com.BLEACHBS
 Version: 9.6.0+iOSGods.com
 Architecture: iphoneos-arm
@@ -80,6 +80,25 @@ Size: 217802
 MD5sum: 380a72467d4626fbf390a6b8c03e6b18
 SHA1: 25a20239ddd289d10523b0878517ff7d0eccbe25
 SHA256: d4a7e07f60ebc09ffb9a6e4d18b24922e40804abf1712e52c9f07da22793783d
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
+Section: Tweaks
+Description: BLEACH Brave Souls iGMM Cheats by iOSGods for iOSGods.com!
+Author: iOSGods
+Homepage: https://iosgods.com
+Installed-Size: 944
+Name: BLEACH Brave Souls Cheats
+
+Package: iOSGods.com.BLEACHBS
+Version: 9.6.1+iOSGods.com
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Depends: mobilesubstrate
+Filename: ./debs/iOSGods.com.BLEACHBS_9.6.1+iOSGods.com_iphoneos-arm.deb
+Size: 218206
+MD5sum: 9f205a6e816de7ba376094575153b4cb
+SHA1: 17a52b5aba946f93ba682e8c410ac1983044c5d5
+SHA256: de7a701509176519c94f0e1525fbb6509d91db6281dce12661d7ada10396569c
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
 Section: Tweaks

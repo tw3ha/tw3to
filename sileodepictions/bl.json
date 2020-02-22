@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "9.5.1",
+					"text": "9.6.1",
 					"class": "DepictionTableTextView"
 				},
 
@@ -80,12 +80,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update Hack version 9.5.1",
+					"markdown": "\t\n\u2022 Update Hack version 9.6.1",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update Hack version 9.5.1",
+					"markdown": "\t\n\u2022 Update Hack version 9.6.1",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
