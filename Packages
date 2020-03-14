@@ -1,20 +1,4 @@
-Package: com.github.tw3to.tw3ha
-Version: 5.4-2+debug-1+debug
-Architecture: iphoneos-arm
-Maintainer: @1_lj6
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.github.tw3to.tw3ha_5.4-2+debug-1+debug_iphoneos-arm.deb
-Size: 903612
-MD5sum: 370a907680a2c5fce971010a3605d321
-SHA1: dce4c4d914da8574a4506abe83d05f51fb0b2120
-SHA256: 2cb15236e3700640d45818e6a90ca6a9df32ccb6ffe978a7479e96fd9870107d
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: @1_lj6
-Installed-Size: 4144
-Name: tw3ha
+
 
 Package: com.github.tw3to.tw3ha
 Version: 5.6
@@ -34,7 +18,23 @@ Author: @1_lj6
 Installed-Size: 3928
 Name: tw3ha
 
-
+Package: com.github.tw3to.tw3ha
+Version: 5.7
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3ha_5.7_iphoneos-arm.deb
+Size: 1078944
+MD5sum: e8a1c1fa96e924e2bcd6859cf88a0eae
+SHA1: dd661b821879f09b58240d56b84898e34d3c30e2
+SHA256: 7680339dde9f121fd046aa3870ec685d05bf5dd6ac7dc448a6d09e4e4104ed8f
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 3904
+Name: tw3ha
 
 Package: com.github.tw3to.tw3so
 Version: 2.6
@@ -52,6 +52,24 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
 Installed-Size: 1296
+Name: SourcePlus
+
+Package: com.github.tw3to.tw3so
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3so_2.7_iphoneos-arm.deb
+Size: 491018
+MD5sum: 18f4501f9cc84fac10f1b081944db986
+SHA1: e2d1ea01b84a7bb5cf484e6cc5f69eb158e68c42
+SHA256: 3a1e437dae776c9a8d0c31bec6872d480be608f3158ad097ddbd44b5b0d82013
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourcePlus
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourcePlus.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 1364
 Name: SourcePlus
 
 Package: iOSGods.com.BLEACHBS
