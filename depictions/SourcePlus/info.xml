@@ -1,7 +1,7 @@
 <package>
 	<id>com.github.tw3to.tw3so</id>
-	<name>tw3so</name>
-	<version>2.1-0+debug</version>
+	<name>SourcePlus</name>
+	<version>2.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>

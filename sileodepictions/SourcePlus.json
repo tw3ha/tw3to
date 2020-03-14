@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "tw3so Tweak for tw3ha"
+					"markdown": "SourcePlus Tweak for tw3ha"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -41,7 +41,7 @@
 				},
 				{
 					"title": "Developer",
-					"text": "tw3so",
+					"text": "SourcePlus",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -80,12 +80,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update  version 2.1+debug",
+					"markdown": "\t\n\u2022 Update  version 2.6",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update  version 2.1+debug",
+					"markdown": "\t\n\u2022 Update  version 2.6",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
