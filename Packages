@@ -35,15 +35,15 @@ Installed-Size: 1364
 Name: SourcePlus
 
 Package: iOSGods.com.BLEACHBS
-Version: 9.6.1+iOSGods.com
+Version: 9.7.0+iOSGods.com
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.BLEACHBS_9.6.1+iOSGods.com_iphoneos-arm.deb
-Size: 218206
-MD5sum: 9f205a6e816de7ba376094575153b4cb
-SHA1: 17a52b5aba946f93ba682e8c410ac1983044c5d5
-SHA256: de7a701509176519c94f0e1525fbb6509d91db6281dce12661d7ada10396569c
+Filename: ./debs/iOSGods.com.BLEACHBS_9.7.0+iOSGods.com_iphoneos-arm.deb
+Size: 217836
+MD5sum: 1b4386f5340620d6dcf50e458d911f33
+SHA1: 8f54e309f5101d84786829c1381537f3c13b9460
+SHA256: f635612b9dbd57efd0c5e75161a1f2a8308bc4e89661778a3a8eb414c7d3c102
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
 Section: Tweaks
