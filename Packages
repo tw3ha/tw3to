@@ -34,6 +34,25 @@ Author: @1_lj6
 Installed-Size: 1364
 Name: SourcePlus
 
+Package: com.Joka.DBLegendsFreeHack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Depends: mobilesubstrate
+Filename: ./debs/com.Joka.DBLegendsFreeHack_1.0.0_iphoneos-arm.deb
+Size: 993590
+MD5sum: 3c0b6abfda9838eb0c4a8ac7426cc8b7
+SHA1: 8f9c2d19fc4f2abb17e5cf389edbf8f4ffb267a0
+SHA256: c203f7e731e8fa40d3508d13caa1f8ea372deacebf1f325f135fa9a7b51b5d92
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=db
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/db.json
+Section: Tweaks
+Description: DRAGON BALL LEGENDS iGMM Cheats by Joka for iOSGods.com!
+Author: Joka
+Homepage: https://iosgods.com
+Installed-Size: 3228
+Name: DRAGON BALL LEGENDS Cheats
+
 Package: iOSGods.com.BLEACHBS
 Version: 9.7.0+iOSGods.com
 Architecture: iphoneos-arm

@@ -1,10 +1,10 @@
 <package>
-	<id>iOSGods.com.BLEACHBS</id>
-	<name>bleach</name>
-	<version>9.6.1</version>
+	<id>com.Joka.DBLegendsFreeHack</id>
+	<name>dragon-ball-legends</name>
+	<version>1>0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>9.0</miniOS>
 			<maxiOS>14.4</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 		</firmware>
@@ -13,14 +13,14 @@
 		<package>mobilesubstrate</package>
 		<package>ws.hbang.common</package>
 	</dependencies>
-	<shortDescription>Al No Attack - God Mode - HighDamage - Skill No Tiem</shortDescription>
+	<shortDescription>Add the sources in Cydia-Selio</shortDescription>
 	<descriptionlist>
-		<description>Al No Attack - God Mode - HighDamage - Skill No Tiem</description>
-		<description>Supports iOS 7.0 - 13</description>
+		<description>Add the sources in Cydia-Selio</description>
+		<description>Supports iOS 9.0 - 13</description>
 	</descriptionlist>
 	<screenshots>tw3to.png</screenshots>
 	<changelog>
-		<change>Update Hack version 9.6.1</change>
+		<change>Add the sources in Cydia-Selio</change>
 	</changelog>
 	<links></links>
 </package>
