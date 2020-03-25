@@ -90,21 +90,21 @@ Installed-Size: 3228
 Name: DRAGON BALL LEGENDS Cheats
 
 Package: iOSGods.com.BLEACHBS
-Version: 9.7.0+iOSGods.com
+Version: 9.7.1+iOSGods.com
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.BLEACHBS_9.7.0+iOSGods.com_iphoneos-arm.deb
-Size: 217836
-MD5sum: 1b4386f5340620d6dcf50e458d911f33
-SHA1: 8f54e309f5101d84786829c1381537f3c13b9460
-SHA256: f635612b9dbd57efd0c5e75161a1f2a8308bc4e89661778a3a8eb414c7d3c102
+Filename: ./debs/iOSGods.com.BLEACHBS_9.7.1+iOSGods.com_iphoneos-arm.deb
+Size: 917002
+MD5sum: 5f84b271776477e9694d29362beff8f2
+SHA1: 751644a98cef336faf0ac3b703dd1ac09949b591
+SHA256: 158f65cc0b223bd340402c55b50fd00e5893dd430b67e825f6fbe4544f5b6cee
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
 Section: Tweaks
 Description: BLEACH Brave Souls iGMM Cheats by iOSGods for iOSGods.com!
 Author: iOSGods
 Homepage: https://iosgods.com
-Installed-Size: 944
+Installed-Size: 3348
 Name: BLEACH Brave Souls Cheats
 
