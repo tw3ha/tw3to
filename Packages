@@ -90,15 +90,15 @@ Installed-Size: 3228
 Name: DRAGON BALL LEGENDS Cheats
 
 Package: iOSGods.com.BLEACHBS
-Version: 9.7.1+iOSGods.com
+Version: 10.0.0+iOSGods.com
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.BLEACHBS_9.7.1+iOSGods.com_iphoneos-arm.deb
-Size: 917002
-MD5sum: 5f84b271776477e9694d29362beff8f2
-SHA1: 751644a98cef336faf0ac3b703dd1ac09949b591
-SHA256: 158f65cc0b223bd340402c55b50fd00e5893dd430b67e825f6fbe4544f5b6cee
+Filename: ./debs/iOSGods.com.BLEACHBS_10.0.0+iOSGods.com_iphoneos-arm.deb
+Size: 919898
+MD5sum: b5439348c1f7de16cf1ec99fcb5ab52d
+SHA1: 3762e2814416781d27e64e66074effef587112aa
+SHA256: 9ffb65ef3aad339449834e1adbd3ab65f8a6f097bb8f8055af89f355cb08376e
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
 Section: Tweaks
