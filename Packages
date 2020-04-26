@@ -90,15 +90,15 @@ Installed-Size: 3228
 Name: DRAGON BALL LEGENDS Cheats
 
 Package: iOSGods.com.BLEACHBS
-Version: 10.0.0+iOSGods.com
+Version: 10.0.1+iOSGods.com
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.BLEACHBS_10.0.0+iOSGods.com_iphoneos-arm.deb
-Size: 919898
-MD5sum: b5439348c1f7de16cf1ec99fcb5ab52d
-SHA1: 3762e2814416781d27e64e66074effef587112aa
-SHA256: 9ffb65ef3aad339449834e1adbd3ab65f8a6f097bb8f8055af89f355cb08376e
+Filename: ./debs/iOSGods.com.BLEACHBS_10.0.1+iOSGods.com_iphoneos-arm.deb
+Size: 921108
+MD5sum: 9e96c20e343035c8bd810ed2d6b7cecd
+SHA1: cbf6fe1934e7e72766c93fc90ca368ed6513c034
+SHA256: 7226bdaef66db9f17f79395b4d8f29028bf01ed50e9c3073413cf7fde6f96c94
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
 Section: Tweaks
@@ -107,3 +107,21 @@ Author: iOSGods
 Homepage: https://iosgods.com
 Installed-Size: 3348
 Name: BLEACH Brave Souls Cheats
+
+Package: tsds.iosgods.com
+Version: 1.0.3-1+debug
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/tsds.iosgods.com_1.0.3-1+debug_iphoneos-arm.deb
+Size: 36112
+MD5sum: 1594bfe7ca15e0e05472d33e8dfa2dbe
+SHA1: 64b886bc0e0cc85c63da88a0ee679fc8b5f096e2
+SHA256: 588efe486fcf1d73cf674211ee6d37e410cb18ac3eb0e443f34492be7796897d
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=ga
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/ga.json
+Section: Tweaks
+Description: The Seven Deadly Sins mod menu made by intell for iosgods.com
+Author: intell
+Homepage: iosgods.com
+Installed-Size: 180
+Name: The Seven Deadly Sins
