@@ -1,0 +1,96 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://github.com/username/SOURCE_NAME/blob/master/assets/Banners/NAME.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+          "class": "DepictionHeaderView",
+          "title": "Description",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "DESCRIPTION"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Information",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "VERSION",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Last Updated",
+					"text": "LAST_UPDATED",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "License",
+					"text": "LICENSE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Compatibility",
+					"text": "COMPATIBILTY",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "DEVELOPER",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Maintainer",
+					"text": "MAINTAINER",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Contact Developer",
+					"action": "mailto:EMAIL",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Contact Maintainer",
+					"action": "mailto:EMAIL",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "VERSION",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 CHANGES",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

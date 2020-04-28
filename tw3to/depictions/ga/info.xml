@@ -1,0 +1,26 @@
+<package>
+	<id>tsds.iosgods.com</id>
+	<name>The Seven Deadly Sins</name>
+	<version>1.0.3-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+	</dependencies>
+	<shortDescription>Al No Attack - God Mode - HighDamage </shortDescription>
+	<descriptionlist>
+		<description>Al No Attack - God Mode - HighDamage </description>
+		<description>Supports iOS 7.0 - 13</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>Update Hack version 1.0.3-1+debug</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,8 @@
+Origin: tw3to Repo
+Label: adelsami
+Suite: stable
+Version: 1.0
+Codename: adelsami
+Architectures: iphoneos-arm
+Components: main
+Description: tw3to Tweaks
