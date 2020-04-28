@@ -89,6 +89,26 @@ Homepage: https://iosgods.com
 Installed-Size: 3228
 Name: DRAGON BALL LEGENDS Cheats
 
+Package: com.noads.tw3so
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.noads.tw3so_1.0-1_iphoneos-arm.deb
+Size: 13860
+MD5sum: 5ff06ea355dd70498986576faaf54d74
+SHA1: 1f80ef2a3813678dbc7c061b90918b695fb94cdb
+SHA256: 31150b881940c4f6ebcb5f9b43f980157356a62df045a8fcc4aa9bc30e89bf50
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=AdsEditor
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/AdsEditor.json
+Section: Tweaks
+Description: Ads Editor +
+Author: @1_lj6
+Installed-Size: 236
+Name: Ads Editor +
+Priority: optional
+dev:
+
 Package: iOSGods.com.BLEACHBS
 Version: 10.0.1+iOSGods.com
 Architecture: iphoneos-arm
