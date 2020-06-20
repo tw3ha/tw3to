@@ -130,15 +130,15 @@ Priority: optional
 dev:
 
 Package: iOSGods.com.BLEACHBS
-Version: 10.0.3+iOSGods.com
+Version: 10.1.1+iOSGods.com
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.BLEACHBS_10.0.3+iOSGods.com_iphoneos-arm.deb
-Size: 938066
-MD5sum: e22cfb976536cb132f709bfc4eb5101c
-SHA1: 7f46e9c04159b90b58545ced36dbf1e09de56eac
-SHA256: dc2e732cc644e4bb8f27eb4da70bfe40dd8015f0bf428172153151ac829827ec
+Filename: ./debs/iOSGods.com.BLEACHBS_10.1.1+iOSGods.com_iphoneos-arm.deb
+Size: 938090
+MD5sum: 78731ee17bd09fb77cc95d6558eb5897
+SHA1: 8f9a83ebd59a03c6c8183683541334194dc1e2c4
+SHA256: 6dd76518651281f1b761a431ece67aa4523c088621fc8b89d047fdac11c97643
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
 Section: Tweaks
