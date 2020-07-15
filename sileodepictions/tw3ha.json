@@ -74,7 +74,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "6.5",
+					"title": "6.6",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
