@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "10.2.0",
+					"text": "10.2.4",
 					"class": "DepictionTableTextView"
 				},
 
@@ -80,12 +80,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update Hack version 10.0 for Co-OP",
+					"markdown": "\t\n\u2022 Update Hack version 10.2.4 for Co-OP",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update Hack version 10.0 for Co-OP",
+					"markdown": "\t\n\u2022 Update Hack version 10.2.4 for Co-OP",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}
