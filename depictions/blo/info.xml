@@ -1,7 +1,7 @@
 <package>
 	<id>iOSGods.com.BLEACHBS</id>
 	<name>bleach CO-OP</name>
-	<version>10.3.0</version>
+	<version>10.3.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -20,7 +20,7 @@
 	</descriptionlist>
 	<screenshots>tw3to.png</screenshots>
 	<changelog>
-		<change>Update Hack version 10.3.0</change>
+		<change>Update Hack version 10.3.1</change>
 	</changelog>
 	<links></links>
 </package>
