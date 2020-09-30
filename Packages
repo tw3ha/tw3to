@@ -131,22 +131,22 @@ Priority: optional
 dev:
 
 Package: iOSGods.com.BLEACHBS
-Version: 10.3.1+iOSGods.com
+Version: 11.0.3+iOSGods.com
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.BLEACHBS_10.3.1+iOSGods.com_iphoneos-arm.deb
-Size: 948470
-MD5sum: f0579cd418e0bd1fd2efa7872ad61da8
-SHA1: 2dcc401cb6a8966dc8e964197d8da7a8059c9cd4
-SHA256: def37c831c719e5cbb26f1b1e0edd588e3c2c192761c6ad617843d71bdbb1775
+Filename: ./debs/iOSGods.com.BLEACHBS_11.0.3+iOSGods.com_iphoneos-arm.deb
+Size: 931550
+MD5sum: 760888120c83ddd18e3d085261079d62
+SHA1: 7cab260c149ad2c38340deba32024b6eb0a154e0
+SHA256: 5bc6c38573e49270e24a92c66d15883480dfbd6f0c34b9430b9e813023be32a2
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
 Section: Tweaks
 Description: BLEACH Brave Souls iGMM Cheats by iOSGods for iOSGods.com!
 Author: iOSGods
 Homepage: https://iosgods.com
-Installed-Size: 3476
+Installed-Size: 3412
 Name: BLEACH Brave Souls Cheats
 
 Package: tsds.iosgods.com
