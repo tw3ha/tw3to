@@ -54,6 +54,25 @@ Installed-Size: 1364
 Name: SourcePlus
 
 Package: com.github.tw3to.tw3so
+Version: 2.9
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3so_2.9_iphoneos-arm.deb
+Size: 517704
+MD5sum: 538892dabc03caecc28728aba24fabea
+SHA1: 27d007605926c90e1d46454875519f855fdfcf5f
+SHA256: 93d75460ba0d4324e263770aead66169a9882d09aa95d314f1fc9bd62d4c6f5e
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourcePlus
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourcePlus.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 1448
+Name: SourecPlus
+
+
+Package: com.github.tw3to.tw3so
 Version: 2.8
 Architecture: iphoneos-arm
 Maintainer: @1_lj6
