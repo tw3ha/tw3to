@@ -1,1 +1,0 @@
-bash -c "C:\New folder\tw3to; ./update.sh"

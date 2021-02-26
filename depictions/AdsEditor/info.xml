@@ -1,0 +1,28 @@
+<package>
+	<id>com.noads.tw3so</id>
+	<name>AdsEditor</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+		<package>preferenceloader</package>
+	  <package>com.spark.libsparkapplist</package>
+	</dependencies>
+	<shortDescription>sped Ads</shortDescription>
+	<descriptionlist>
+		<description>sped Ads</description>
+		<description>Supports iOS 9.0 - 13</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>sped Ads</change>
+	</changelog>
+	<links></links>
+</package>
