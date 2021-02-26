@@ -1,0 +1,11 @@
+Origin: tw3so's Repo
+Label: tw3so
+Suite: stable
+Version: 1.0
+Codename: adel
+Architecture: iphoneos-arm
+Components: main
+Description: tw3so Tweaks
+MD5Sum:
+ c5731d5abb43dc40f69db116c57a590d 84429 Packages
+ 470fa699a929b93037966a76692a2992 22782 Packages.bz2
