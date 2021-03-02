@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "2.9",
+					"text": "3.0",
 					"class": "DepictionTableTextView"
 				},
 
@@ -80,12 +80,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update  version 2.9",
+					"markdown": "\t\n\u2022 Update  version 3.0",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update  version 2.9",
+					"markdown": "\t\n\u2022 Update  version 3.0",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}

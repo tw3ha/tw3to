@@ -35,23 +35,7 @@ Author: @1_lj6
 Installed-Size: 4192
 Name: tw3ha
 
-Package: com.github.tw3to.tw3so
-Version: 2.7
-Architecture: iphoneos-arm
-Maintainer: @1_lj6
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.github.tw3to.tw3so_2.7_iphoneos-arm.deb
-Size: 491018
-MD5sum: 18f4501f9cc84fac10f1b081944db986
-SHA1: e2d1ea01b84a7bb5cf484e6cc5f69eb158e68c42
-SHA256: 3a1e437dae776c9a8d0c31bec6872d480be608f3158ad097ddbd44b5b0d82013
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourcePlus
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourcePlus.json
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: @1_lj6
-Installed-Size: 1364
-Name: SourcePlus
+
 
 Package: com.github.tw3to.tw3so
 Version: 2.9
@@ -71,23 +55,22 @@ Author: @1_lj6
 Installed-Size: 1448
 Name: SourecPlus
 
-
 Package: com.github.tw3to.tw3so
-Version: 2.8
+Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: @1_lj6
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.github.tw3to.tw3so_2.8_iphoneos-arm.deb
-Size: 491188
-MD5sum: 806f220588ace1edf154e325095293e6
-SHA1: a49c51a1926a0b3b974fe151be8d555ddbdc4cfc
-SHA256: 91d272b54c381391e16b5ca160f8651421ce99b0385175e58d7c6520545034af
+Filename: ./debs/com.github.tw3to.tw3so_3.0_iphoneos-arm.deb
+Size: 205428
+MD5sum: 0ee20a764a4b6ab6ba1fa1bd16d74efc
+SHA1: ea43a6cd43d196c21f0a907ed0e0aba62f657325
+SHA256: 65b010306092045b16f78e06a8d966f172c762aadd4900ce2a903abd02c1e3a7
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourcePlus
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourcePlus.json
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
-Installed-Size: 1372
+Installed-Size: 1108
 Name: SourcePlus
 
 Package: com.Joka.DBLegendsFreeHack
