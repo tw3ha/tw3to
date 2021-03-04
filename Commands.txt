@@ -1,0 +1,3 @@
+python -m pip install pydpkg --user
+
+python .\dpkg-tw3ha.py -m .\debs -o Packages
