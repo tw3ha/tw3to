@@ -1,0 +1,26 @@
+<package>
+	<id>com.brend0n.accdemo</id>
+	<name>accdemo</name>
+	<version>1>0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS>14.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+	</dependencies>
+	<shortDescription>accdemo</shortDescription>
+	<descriptionlist>
+		<description>accdemo</description>
+		<description>Supports iOS 9.0 - 13</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>accdemo</change>
+	</changelog>
+	<links></links>
+</package>

@@ -55,6 +55,28 @@ Author: @1_lj6
 Installed-Size: 1448
 Name: SourecPlus
 
+Package: com.brend0n.accdemo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.brend0n.accdemo_1.0_iphoneos-arm.deb
+Size: 175268
+MD5sum: 590704cef3b83798c13cd9e2774c6961
+SHA1: 4c653249fe46c9633341683cad27fc9c5f4a6734
+SHA256: c170bb8c8efa04fa140af40b78dbf629fb441c5df575b4a783281f7436a0b1bc
+Section: Tweaks
+Description: unity/cocos2d game accelerator
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accdemoDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accdemoDp
+Installed-Size: 765
+Name: accDemo
+Priority: optional
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension
+dev: brend0n
+
 Package: com.github.tw3to.tw3so
 Version: 3.0
 Architecture: iphoneos-arm
