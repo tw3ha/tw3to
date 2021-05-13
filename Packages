@@ -1,60 +1,3 @@
-
-Package: com.github.tw3to.tw3ha
-Version: 6.6
-Architecture: iphoneos-arm
-Maintainer: @1_lj6
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 11.0)
-Filename: ./debs/com.github.tw3to.tw3ha_6.6_iphoneos-arm.deb
-Size: 1187308
-MD5sum: 079de562adb767509cd1a7edeacdac77
-SHA1: f9cbf069407631b3f107b6aa99522f26c508e6eb
-SHA256: 40499450bd82b60a53c173b55af2b661cbcd68148929ad71abbf7c5964a3f11a
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: @1_lj6
-Installed-Size: 4224
-Name: tw3ha
-
-Package: com.github.tw3to.tw3ha
-Version: 6.7
-Architecture: iphoneos-arm
-Maintainer: @1_lj6
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 11.0)
-Filename: ./debs/com.github.tw3to.tw3ha_6.7_iphoneos-arm.deb
-Size: 1181996
-MD5sum: 1352fe65408e902fd1e1e2fde364db8e
-SHA1: 1dd84b38206f9317ec0015069b715f167c63cd90
-SHA256: 62a0e14fca59d16ff994ef36f230c081402c7ce0cb3d268e64ccfa5278c2e97f
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: @1_lj6
-Installed-Size: 4192
-Name: tw3ha
-
-
-
-Package: com.github.tw3to.tw3so
-Version: 2.9
-Architecture: iphoneos-arm
-Maintainer: @1_lj6
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.github.tw3to.tw3so_2.9_iphoneos-arm.deb
-Size: 517704
-MD5sum: 538892dabc03caecc28728aba24fabea
-SHA1: 27d007605926c90e1d46454875519f855fdfcf5f
-SHA256: 93d75460ba0d4324e263770aead66169a9882d09aa95d314f1fc9bd62d4c6f5e
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourcePlus
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourcePlus.json
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: @1_lj6
-Installed-Size: 1448
-Name: SourecPlus
-
 Package: com.brend0n.accdemo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -77,6 +20,60 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension
 dev: brend0n
 
+Package: com.github.tw3to.tw3ha
+Version: 6.7
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 11.0)
+Filename: ./debs/com.github.tw3to.tw3ha_6.7_iphoneos-arm.deb
+Size: 1181996
+MD5sum: 1352fe65408e902fd1e1e2fde364db8e
+SHA1: 1dd84b38206f9317ec0015069b715f167c63cd90
+SHA256: 62a0e14fca59d16ff994ef36f230c081402c7ce0cb3d268e64ccfa5278c2e97f
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 4192
+Name: tw3ha
+
+Package: com.github.tw3to.tw3ha
+Version: 7.0
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3ha_7.0_iphoneos-arm.deb
+Size: 1009490
+MD5sum: d90aab7742815b31ea5a1387afa5bceb
+SHA1: 8b40d312762fa58cbefb2bb45e73a8fa3c93891d
+SHA256: a4930f19359ebe646847d2e3b4c07bca1bda3487356fb06196b306ec7903a368
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 3520
+Name: tw3ha
+
+Package: com.github.tw3to.tw3so
+Version: 2.9
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.github.tw3to.tw3so_2.9_iphoneos-arm.deb
+Size: 517704
+MD5sum: 538892dabc03caecc28728aba24fabea
+SHA1: 27d007605926c90e1d46454875519f855fdfcf5f
+SHA256: 93d75460ba0d4324e263770aead66169a9882d09aa95d314f1fc9bd62d4c6f5e
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourecPlus
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourecPlus.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 1448
+Name: SourecPlus
+
 Package: com.github.tw3to.tw3so
 Version: 3.0
 Architecture: iphoneos-arm
@@ -87,32 +84,13 @@ Size: 205428
 MD5sum: 0ee20a764a4b6ab6ba1fa1bd16d74efc
 SHA1: ea43a6cd43d196c21f0a907ed0e0aba62f657325
 SHA256: 65b010306092045b16f78e06a8d966f172c762aadd4900ce2a903abd02c1e3a7
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourcePlus
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourcePlus.json
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourecPlus
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourecPlus.json
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
 Installed-Size: 1108
 Name: SourcePlus
-
-Package: com.Joka.DBLegendsFreeHack
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: iOSGods.com
-Depends: mobilesubstrate
-Filename: ./debs/com.Joka.DBLegendsFreeHack_1.0.0_iphoneos-arm.deb
-Size: 993590
-MD5sum: 3c0b6abfda9838eb0c4a8ac7426cc8b7
-SHA1: 8f9c2d19fc4f2abb17e5cf389edbf8f4ffb267a0
-SHA256: c203f7e731e8fa40d3508d13caa1f8ea372deacebf1f325f135fa9a7b51b5d92
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=db
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/db.json
-Section: Tweaks
-Description: DRAGON BALL LEGENDS iGMM Cheats by Joka for iOSGods.com!
-Author: Joka
-Homepage: https://iosgods.com
-Installed-Size: 3228
-Name: DRAGON BALL LEGENDS Cheats
 
 Package: com.noads.tw3so
 Version: 1.0-1
@@ -132,7 +110,7 @@ Author: @1_lj6
 Installed-Size: 236
 Name: Ads Editor +
 Priority: optional
-dev:
+dev: 
 
 Package: com.noads.tw3so
 Version: 1.1-1
@@ -152,41 +130,5 @@ Author: @1_lj6
 Installed-Size: 236
 Name: Ads Editor +
 Priority: optional
-dev:
+dev: 
 
-Package: iOSGods.com.BLEACHBS
-Version: 11.0.3+iOSGods.com
-Architecture: iphoneos-arm
-Maintainer: iOSGods.com
-Depends: mobilesubstrate
-Filename: ./debs/iOSGods.com.BLEACHBS_11.0.3+iOSGods.com_iphoneos-arm.deb
-Size: 931550
-MD5sum: 760888120c83ddd18e3d085261079d62
-SHA1: 7cab260c149ad2c38340deba32024b6eb0a154e0
-SHA256: 5bc6c38573e49270e24a92c66d15883480dfbd6f0c34b9430b9e813023be32a2
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=blo
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/blo.json
-Section: Tweaks
-Description: BLEACH Brave Souls iGMM Cheats by iOSGods for iOSGods.com!
-Author: iOSGods
-Homepage: https://iosgods.com
-Installed-Size: 3412
-Name: BLEACH Brave Souls Cheats
-
-Package: tsds.iosgods.com
-Version: 1.0.3-1+debug
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/tsds.iosgods.com_1.0.3-1+debug_iphoneos-arm.deb
-Size: 36112
-MD5sum: 1594bfe7ca15e0e05472d33e8dfa2dbe
-SHA1: 64b886bc0e0cc85c63da88a0ee679fc8b5f096e2
-SHA256: 588efe486fcf1d73cf674211ee6d37e410cb18ac3eb0e443f34492be7796897d
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=ga
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/ga.json
-Section: Tweaks
-Description: The Seven Deadly Sins mod menu made by intell for iosgods.com
-Author: intell
-Homepage: iosgods.com
-Installed-Size: 180
-Name: The Seven Deadly Sins
