@@ -30,8 +30,6 @@ Size: 1181996
 MD5sum: 1352fe65408e902fd1e1e2fde364db8e
 SHA1: 1dd84b38206f9317ec0015069b715f167c63cd90
 SHA256: 62a0e14fca59d16ff994ef36f230c081402c7ce0cb3d268e64ccfa5278c2e97f
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
@@ -48,8 +46,6 @@ Size: 1013818
 MD5sum: c15e07ab34c2ff49296ffe39868b114b
 SHA1: a60a56104d0c242f12367e81058fa4214212e5a5
 SHA256: a0b6fea191b2b19826742e915c119b15d98ab75ea258f24d9c805fb34acd6839
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
@@ -66,8 +62,6 @@ Size: 517704
 MD5sum: 538892dabc03caecc28728aba24fabea
 SHA1: 27d007605926c90e1d46454875519f855fdfcf5f
 SHA256: 93d75460ba0d4324e263770aead66169a9882d09aa95d314f1fc9bd62d4c6f5e
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourecPlus
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourecPlus.json
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
@@ -84,8 +78,6 @@ Size: 205428
 MD5sum: 0ee20a764a4b6ab6ba1fa1bd16d74efc
 SHA1: ea43a6cd43d196c21f0a907ed0e0aba62f657325
 SHA256: 65b010306092045b16f78e06a8d966f172c762aadd4900ce2a903abd02c1e3a7
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=SourecPlus
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/SourecPlus.json
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
@@ -102,8 +94,6 @@ Size: 13860
 MD5sum: 5ff06ea355dd70498986576faaf54d74
 SHA1: 1f80ef2a3813678dbc7c061b90918b695fb94cdb
 SHA256: 31150b881940c4f6ebcb5f9b43f980157356a62df045a8fcc4aa9bc30e89bf50
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=AdsEditor
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/AdsEditor.json
 Section: Tweaks
 Description: Ads Editor +
 Author: @1_lj6
@@ -122,8 +112,6 @@ Size: 13868
 MD5sum: 5ee6c316a7c7aeda6daac37b9dc13224
 SHA1: 2d53a58ebbf4f2e92e316b43127a71812ac52217
 SHA256: 56d606484778653f6004120882988646a09b1ea39ee37cc6945827bdee00c452
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=AdsEditor
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/AdsEditor.json
 Section: Tweaks
 Description: Ads Editor +
 Author: @1_lj6
