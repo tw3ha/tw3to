@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "7.0-2+debug",
+					"text": "7.3.1+debug",
 					"class": "DepictionTableTextView"
 				},
 
@@ -74,7 +74,7 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "7.0",
+					"title": "7.3.1+debug",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
