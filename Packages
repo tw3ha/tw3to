@@ -1,4 +1,3 @@
-
 Package: com.brend0n.accdemo
 Version: 1.0
 Architecture: iphoneos-arm
@@ -28,8 +27,8 @@ Maintainer: @1_lj6
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 11.0)
 Filename: ./debs/com.github.tw3to.tw3ha_6.7_iphoneos-arm.deb
 Size: 1181996
-MD5sum: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
-SHA1: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
+MD5sum: 1352fe65408e902fd1e1e2fde364db8e
+SHA1: 1dd84b38206f9317ec0015069b715f167c63cd90
 SHA256: 62a0e14fca59d16ff994ef36f230c081402c7ce0cb3d268e64ccfa5278c2e97f
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
@@ -46,7 +45,7 @@ Maintainer: @1_lj6
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.github.tw3to.tw3ha_7.3.1+debug_iphoneos-arm.deb
 Size: 864828
-MD5sum: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
+MD5sum: 1e3425979d0b918d94b62b5506a37290
 SHA1: 2c5a1a9ce1c658f756fb5fc378eea15f59780a54
 SHA256: 02cd09d6f95d7c0436cd92da7866f5b2062bdde8c714d6dadef03ed9cd0163e6
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
@@ -101,7 +100,7 @@ Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/com.noads.tw3so_1.0-1_iphoneos-arm.deb
 Size: 13860
 MD5sum: 5ff06ea355dd70498986576faaf54d74
-SHA1: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
+SHA1: 1f80ef2a3813678dbc7c061b90918b695fb94cdb
 SHA256: 31150b881940c4f6ebcb5f9b43f980157356a62df045a8fcc4aa9bc30e89bf50
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=AdsEditor
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/AdsEditor.json
