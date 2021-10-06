@@ -27,8 +27,8 @@ Maintainer: @1_lj6
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 11.0)
 Filename: ./debs/com.github.tw3to.tw3ha_6.7_iphoneos-arm.deb
 Size: 1181996
-MD5sum: 1352fe65408e902fd1e1e2fde364db8e
-SHA1: 1dd84b38206f9317ec0015069b715f167c63cd90
+MD5sum: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
+SHA1: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
 SHA256: 62a0e14fca59d16ff994ef36f230c081402c7ce0cb3d268e64ccfa5278c2e97f
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
@@ -39,21 +39,21 @@ Installed-Size: 4192
 Name: tw3ha
 
 Package: com.github.tw3to.tw3ha
-Version: 8.0.1+debug
+Version: 8.6
 Architecture: iphoneos-arm
 Maintainer: @1_lj6
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.github.tw3to.tw3ha_8.0.1+debug_iphoneos-arm.deb
-Size: 864838
-MD5sum: ad260ac8dbecf477fce0b9f8e96940f5
-SHA1: 5a6999f14ac472a29426c905f5e0f14bccb4ef4e
-SHA256: 93efc69290dc3b8e8d91dccd4d2d271d7249e9d478cfaf293b2718f1f6f4f564
+Filename: ./debs/com.github.tw3to.tw3ha_8.6_iphoneos-arm.deb
+Size: 1850188
+MD5sum: 613c830893b374095d2ea69b51cee707
+SHA1: e1c97b09dc7156c3046c32bf5ed2fe15344a3edf
+SHA256: 09ab92a84cbd4c828ac2fbd2c65256d0196d12f9cd895efa355d9e087e4f9d56
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
-Installed-Size: 3520
+Installed-Size: 4804
 Name: tw3ha
 
 Package: com.github.tw3to.tw3so
@@ -100,7 +100,7 @@ Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/com.noads.tw3so_1.0-1_iphoneos-arm.deb
 Size: 13860
 MD5sum: 5ff06ea355dd70498986576faaf54d74
-SHA1: 1f80ef2a3813678dbc7c061b90918b695fb94cdb
+SHA1: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
 SHA256: 31150b881940c4f6ebcb5f9b43f980157356a62df045a8fcc4aa9bc30e89bf50
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=AdsEditor
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/AdsEditor.json

@@ -1,7 +1,7 @@
 <package>
 	<id>com.tw3to.tw3ha</id>
 	<name>tw3ha</name>
-	<version>8.0.1+debug</version>
+	<version>8.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
@@ -16,7 +16,7 @@
 	<shortDescription>Tool to hack some programs, games,and reomv ads, and changes with Spring</shortDescription>
 	<descriptionlist>
 		<description>Tool to hack some programs, games,and reomv ads, and changes with Spring</description>
-		<description>Supports iOS 9.0 - 15</description>
+		<description>Supports iOS 11.0 - 15</description>
 	</descriptionlist>
 	<screenshots>tw3to.png</screenshots>
 	<changelog>
