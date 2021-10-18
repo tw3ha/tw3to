@@ -14,7 +14,7 @@
         },
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "tw3ha Tweak for adel"
+					"markdown": "DarkApp Tweak for adel"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "8.6-4+debug",
+					"text": "8.6-7+debug",
 					"class": "DepictionTableTextView"
 				},
 
@@ -36,7 +36,7 @@
 				},
 				{
 					"title": "Compatibility",
-					"text": "iOS 9.0 - 15",
+					"text": "iOS 12.0 - 15",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -74,18 +74,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "8.6-4+debug",
+					"title": "8.6-7+debug",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update tool icons and download new programs",
+					"markdown": "\t\n\u2022 DarkApp for Add icon new for add TioTokPlus",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "\t\n\u2022 Update tool icons and download new programs",
+					"markdown": "\t\n\u2022 DarkApp for Add icon new for add TioTokPlus",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				}

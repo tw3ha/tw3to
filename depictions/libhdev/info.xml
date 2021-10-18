@@ -1,0 +1,28 @@
+<package>
+	<id>com.haoict.libhdev</id>
+	<name>tw3ha</name>
+	<version>4.8.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>15.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+		<package>com.github.tw3to.tw3ha</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Tool libhdev Installer for ren DarkApp</shortDescription>
+	<descriptionlist>
+		<description>Tool libhdev Installer for ren DarkApp</description>
+		<description>Supports iOS 12.0 - 15</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>Tool libhdev Installer for ren DarkApp</change>
+	</changelog>
+	<links></links>
+</package>
