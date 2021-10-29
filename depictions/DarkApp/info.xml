@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <package>
 	<id>com.github.tw3to.tw3ha</id>
 	<name>tw3ha</name>
@@ -27,3 +28,34 @@
 	</changelog>
 	<links></links>
 </package>
+=======
+<package>
+	<id>com.github.tw3to.tw3ha</id>
+	<name>tw3ha</name>
+	<version>8.6-8+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>15.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+		<package>com.haoict.libhdev</package>
+		<package>preferenceloader</package>
+		<package>firmware (>= 12)</package>
+	</dependencies>
+	<shortDescription>Tool to hack some programs, games,and reomv ads, and changes with Spring</shortDescription>
+	<descriptionlist>
+		<description>Tool to hack some programs, games,and reomv ads, and changes with Spring</description>
+		<description>Supports iOS 12.0 - 15</description>
+	</descriptionlist>
+	<screenshots>tw3to.png</screenshots>
+	<changelog>
+		<change>Update tool icons and download new programs</change>
+	</changelog>
+	<links></links>
+</package>
+>>>>>>> b97dfa301c8e61fd8eaf491145a33d40ead156fb
