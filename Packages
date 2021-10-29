@@ -21,24 +21,6 @@ Tag: purpose::extension
 dev: brend0n
 
 Package: com.github.tw3to.tw3ha
-Version: 8.6-7+debug-1+debug
-Architecture: iphoneos-arm
-Maintainer: @1_lj6
-Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.haoict.libhdev
-Filename: ./debs/com.github.tw3to.tw3ha_8.6-7+debug-1+debug_iphoneos-arm.deb
-Size: 1734142
-MD5sum: 0eba165b2c217a25de1c81437e032846
-SHA1: 32KxkdJBqWHDKCk6VXLJQKTutNghEYe35U
-SHA256: a5e1ffe5185da0b37f051a67a787f5b6a0dce174dbccf03b75de444c4c1c82c0
-Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
-SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: @1_lj6
-Installed-Size: 3144
-Name: DarkApp
-
-Package: com.github.tw3to.tw3ha
 Version: 8.6-8
 Architecture: iphoneos-arm
 Maintainer: @1_lj6
@@ -54,6 +36,24 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
 Installed-Size: 3796
+Name: DarkApp
+
+Package: com.github.tw3to.tw3ha
+Version: 8.6-9+debug-1+debug
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.haoict.libhdev
+Filename: ./debs/com.github.tw3to.tw3ha_8.6-9+debug-1+debug_iphoneos-arm.deb
+Size: 1986666
+MD5sum: ed0a2dada2dce3305bd0abe243143eed
+SHA1: dcd11bb0ae9d29ef428fbcc60d85f819cd494498
+SHA256: 42de8f70816c1c77bc309366de1546e650e9ee8516e4594cd8f1fcd299e430d7
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 3724
 Name: DarkApp
 
 Package: com.github.tw3to.tw3so
@@ -95,7 +95,7 @@ Name: SourcePlus
 Package: com.haoict.libhdev
 Version: 4.8.1
 Architecture: iphoneos-arm
-Maintainer: adel <adel@hotmail.com>
+Maintainer: Sa3odka <sa3odka@hotmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Filename: ./debs/com.haoict.libhdev_4.8.1_iphoneos-arm.deb
 Size: 76766
@@ -105,11 +105,11 @@ SHA256: aa3fff4c7386fcd42e5f0bef5fb993caca52ed1679baf473054ca0779bc80b76
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=libhdev
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/libhdev.json
 Section: System
-Author: adel <adel@hotmail.com>
+Author: Sa3odka <sa3odka@hotmail.com>
 Installed-Size: 316
 Name: libhdev
-SileoDepiction: 
-Sponsor: adel <tw3so Repo>
+SileoDepiction: https://sa3odka.x7mii.vip/sileo.php?pid=736
+Sponsor: Sa3odka <Sa3odka Repo>
 Tag: role::developer
 
 Package: com.noads.tw3so
@@ -120,7 +120,7 @@ Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/com.noads.tw3so_1.0-1_iphoneos-arm.deb
 Size: 13860
 MD5sum: 5ff06ea355dd70498986576faaf54d74
-SHA1: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
+SHA1: 1f80ef2a3813678dbc7c061b90918b695fb94cdb
 SHA256: 31150b881940c4f6ebcb5f9b43f980157356a62df045a8fcc4aa9bc30e89bf50
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=AdsEditor
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/AdsEditor.json
