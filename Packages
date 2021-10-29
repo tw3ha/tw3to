@@ -28,7 +28,7 @@ Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.haoict.libhdev
 Filename: ./debs/com.github.tw3to.tw3ha_8.6-7+debug-1+debug_iphoneos-arm.deb
 Size: 1734142
 MD5sum: 0eba165b2c217a25de1c81437e032846
-SHA1: 3539ea6b7ce17e73ec72dc2f16aa5b004e23a7de
+SHA1: 32KxkdJBqWHDKCk6VXLJQKTutNghEYe35U
 SHA256: a5e1ffe5185da0b37f051a67a787f5b6a0dce174dbccf03b75de444c4c1c82c0
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
@@ -36,6 +36,24 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
 Installed-Size: 3144
+Name: DarkApp
+
+Package: com.github.tw3to.tw3ha
+Version: 8.6-8
+Architecture: iphoneos-arm
+Maintainer: @1_lj6
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.haoict.libhdev
+Filename: ./debs/com.github.tw3to.tw3ha_8.6-8_iphoneos-arm.deb
+Size: 1986632
+MD5sum: 8dd7a9157cf3da7d6a9aca7b74401fe8
+SHA1: 4e00cc61281b184fe85892ecaf92c008bae20c8e
+SHA256: 1fd2c3317b66f182b05fd2ae5f0e90cfd0243daa71eb77a124156829878235e5
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @1_lj6
+Installed-Size: 3796
 Name: DarkApp
 
 Package: com.github.tw3to.tw3so
@@ -102,7 +120,7 @@ Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: ./debs/com.noads.tw3so_1.0-1_iphoneos-arm.deb
 Size: 13860
 MD5sum: 5ff06ea355dd70498986576faaf54d74
-SHA1: 1f80ef2a3813678dbc7c061b90918b695fb94cdb
+SHA1: 1GvzmW4PDo92bw6KoGSzTuynHTPJRVpHL6
 SHA256: 31150b881940c4f6ebcb5f9b43f980157356a62df045a8fcc4aa9bc30e89bf50
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=AdsEditor
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/AdsEditor.json
