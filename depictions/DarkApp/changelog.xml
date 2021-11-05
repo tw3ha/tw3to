@@ -1,15 +1,7 @@
-<<<<<<< HEAD
 <changelog>
 	<changes>
-		<version>8.6-9+debug</version>
+		<version>8.7-1+debug</version>
 		<change>DarkApp App icon New for Add TikTok Plus</change>
 	</changes>
 </changelog>
-=======
-<changelog>
-	<changes>
-		<version>8.6-8+debug</version>
-		<change>DarkApp App icon New for Add TikTok Plus</change>
-	</changes>
-</changelog>
->>>>>>> b97dfa301c8e61fd8eaf491145a33d40ead156fb
+
