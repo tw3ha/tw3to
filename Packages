@@ -134,6 +134,24 @@ Name: Ads Editor +
 Priority: optional
 dev: 
 
+Package: com.meshoo.zaincashpatched
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: meshoo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.meshoo.zaincashpatched_1.0-1+debug_iphoneos-arm.deb
+Size: 7064
+MD5sum: 637a9f765a690ab7f9ab78b0a9f2fd40
+SHA1: 069e8fa96d99bd245dc075c46f117d8fa8f5b586
+SHA256: d21abf366164ce4a461b3f9dcd49fe8c504243e2368f58f7c83a7696a36de0ac
+Depiction: https://tw3ha.github.io/tw3to/depictions/?p=Jordan
+SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/Jordan.json
+Section: Tweaks
+Description: Bypass Jailbreak for Zaincash Jordan app
+Author: meshoo
+Installed-Size: 140
+Name: zaincashpatched
+
 Package: com.noads.tw3so
 Version: 1.1-1
 Architecture: iphoneos-arm
