@@ -40,21 +40,21 @@ Installed-Size: 5572
 Name: DarkApp
 
 Package: com.github.tw3to.tw3ha
-Version: 8.7-3+debug-1+debug
+Version: 8.8-7+debug-1+debug
 Architecture: iphoneos-arm
 Maintainer: @1_lj6
 Depends: mobilesubstrate, ws.hbang.common, preferenceloader, com.haoict.libhdev
-Filename: ./debs/com.github.tw3to.tw3ha_8.7-3+debug-1+debug_iphoneos-arm.deb
-Size: 2046296
-MD5sum: 6452f217c8170b3294df44b4a20631e2
-SHA1: 46b71da4e4eb9c0c9ffb8bc906dca592d2c72b5f
-SHA256: 73d4d8371f4709616a5ea012baf90ecdb80a85abe09a420936912d2a49800013
+Filename: ./debs/com.github.tw3to.tw3ha_8.8-7+debug-1+debug_iphoneos-arm.deb
+Size: 2200430
+MD5sum: f7af871daf0b7851edb6256ee3bf2925
+SHA1: 2cec3b8574abe8817a8c55eca15681ab6d88ca03
+SHA256: 8d08928cab5950c06e9bcf393dbb07b2326a109fb84f24d56eb3f43f43f7760d
 Depiction: https://tw3ha.github.io/tw3to/depictions/?p=tw3ha
 SileoDepiction: https://tw3ha.github.io/tw3to/sileodepictions/tw3ha.json
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: @1_lj6
-Installed-Size: 4128
+Installed-Size: 6008
 Name: DarkApp
 
 
